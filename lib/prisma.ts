@@ -9,4 +9,4 @@ export const prisma =
 if (process.env.NODE_ENV !== 'production') globalForPrisma.prisma = prisma;
 
 export default prisma;
-//to be continued ...
+//to be continued ...k
